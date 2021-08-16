@@ -1,0 +1,15 @@
+/Users/andrew/Documents/GitHub/PipeLine-Test/bin/Debug/net5.0/PipeLine-Test.deps.json
+/Users/andrew/Documents/GitHub/PipeLine-Test/bin/Debug/net5.0/PipeLine-Test.runtimeconfig.json
+/Users/andrew/Documents/GitHub/PipeLine-Test/bin/Debug/net5.0/PipeLine-Test.runtimeconfig.dev.json
+/Users/andrew/Documents/GitHub/PipeLine-Test/bin/Debug/net5.0/PipeLine-Test.dll
+/Users/andrew/Documents/GitHub/PipeLine-Test/bin/Debug/net5.0/ref/PipeLine-Test.dll
+/Users/andrew/Documents/GitHub/PipeLine-Test/bin/Debug/net5.0/PipeLine-Test.pdb
+/Users/andrew/Documents/GitHub/PipeLine-Test/obj/Debug/net5.0/PipeLine-Test.csproj.AssemblyReference.cache
+/Users/andrew/Documents/GitHub/PipeLine-Test/obj/Debug/net5.0/PipeLine-Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrew/Documents/GitHub/PipeLine-Test/obj/Debug/net5.0/PipeLine-Test.AssemblyInfoInputs.cache
+/Users/andrew/Documents/GitHub/PipeLine-Test/obj/Debug/net5.0/PipeLine-Test.AssemblyInfo.cs
+/Users/andrew/Documents/GitHub/PipeLine-Test/obj/Debug/net5.0/PipeLine-Test.csproj.CoreCompileInputs.cache
+/Users/andrew/Documents/GitHub/PipeLine-Test/obj/Debug/net5.0/PipeLine-Test.dll
+/Users/andrew/Documents/GitHub/PipeLine-Test/obj/Debug/net5.0/ref/PipeLine-Test.dll
+/Users/andrew/Documents/GitHub/PipeLine-Test/obj/Debug/net5.0/PipeLine-Test.pdb
+/Users/andrew/Documents/GitHub/PipeLine-Test/obj/Debug/net5.0/PipeLine-Test.genruntimeconfig.cache
